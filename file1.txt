@@ -1,1 +1,3 @@
 Ini adalah File 1 Yang sudah diubah di dalam Repo sentral atau di gitHub Browser
+
+Ini adalah Perubahan 2 (Soal no 6)
